@@ -2192,6 +2192,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [notepad.page](https://notepad.page) `https://mcp.notepad.page/mcp`
   [![notepad.page MCP connector](https://glama.ai/mcp/connectors/page.notepad/notepad/badges/score.svg)](https://glama.ai/mcp/connectors/page.notepad/notepad)
   🔓 - Publish, recall and update persistent private HTML pages at a personal address; publishing needs OAuth.
+- [OnlyMCP](https://only-mcp.com) `https://only-mcp.com/api/mcp`
+  [![OnlyMCP MCP connector](https://glama.ai/mcp/connectors/com.only-mcp/onlymcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.only-mcp/onlymcp)
+  🔐 - Skills, agents and markdown memory in the cloud, the same in every client, plus a gateway to your other MCP servers.
 - [Ontonym](https://www.ontonym.com) `https://mcp.ontonym.com/mcp`
   [![Ontonym MCP connector](https://glama.ai/mcp/connectors/com.ontonym/memory/badges/score.svg)](https://glama.ai/mcp/connectors/com.ontonym/memory)
   🔐 - Give your agents your team's real data: read the shared graph, and propose actions a human approves.
